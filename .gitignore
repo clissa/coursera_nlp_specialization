@@ -12,7 +12,14 @@
 ### videos
 *.mp4
 
-### Auxiliary Notebooks
+### info
+*.html
+
+### Auxiliary files
+**/assignments/tmp2
+*pickle
+**/assignment/data
+**/assignment/nltk_data
 
 
 #####	PYTHON'S gitignore TEMPLATE	---	development_environment added	#####
